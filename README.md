@@ -38,6 +38,7 @@ npm i -g npm@latest
 
 npm -v
 > 3.9.3
+- 
 ```
 
 >**Note:**
@@ -53,3 +54,14 @@ git clone https://github.com/gaearon/workshop.git
 cd workshop
 npm install
 ```
+
+
+-------------------------------
+
+- https://github.com/jesstelford/react-workshop
+- https://github.com/reach/advanced-react-workshop
+- https://github.com/reach/advanced-react-workshop
+- https://github.com/FrontendMasters/2015-02-13-React
+- https://github.com/mzabriskie/react-workshop
+- https://github.com/reach/advanced-react-workshop
+- 
