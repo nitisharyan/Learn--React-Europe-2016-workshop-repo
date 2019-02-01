@@ -64,4 +64,10 @@ npm install
 - https://github.com/FrontendMasters/2015-02-13-React
 - https://github.com/mzabriskie/react-workshop
 - https://github.com/reach/advanced-react-workshop
+- https://github.com/FormidableLabs/react-europe-workshop
+
+-------------------
+- https://github.com/bonniee/learning-react-native
+- https://github.com/MoonHighway/learning-react
+- https://github.com/the-road-to-learn-react/the-road-to-learn-react
 - 
